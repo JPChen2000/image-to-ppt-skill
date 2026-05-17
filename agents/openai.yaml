@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image to SVG PPT"
+  short_description: "Editable PPT from separated SVG assets"
+  default_prompt: "Use $image-to-svg-ppt to convert the provided image into separate SVG assets and rebuild it as an editable PowerPoint deck."
